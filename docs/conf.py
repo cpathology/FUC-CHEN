@@ -51,8 +51,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'FUC'
-copyright = u'2018, Pingjun Chen'
+project = u'FUC-CHEN'
+copyright = u'2022, CHEN'
 author = u'Pingjun Chen'
 
 # The version info for the project you're documenting, acts as replacement for
