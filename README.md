@@ -1,6 +1,6 @@
 # Frequently Used Commands for CHEN (FUC-CHEN)
 [![Documentation Status](https://readthedocs.org/projects/fuc-chen/badge/?version=latest)](https://fuc-chen.readthedocs.io/en/latest/?badge=latest)
-![](img.shields.io/github/license/cpathology/FUC-CHEN.svg)
+![](https://img.shields.io/github/license/cpathology/FUC-CHEN.svg)
 ![](https://img.shields.io/github/stars/cpathology/FUC-CHEN.svg)
 
 This repo covers most frequently used commands, configs, and cheatsheets for reference.
