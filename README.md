@@ -1,16 +1,16 @@
 # Frequently Used Commands for CHEN (FUC-CHEN)
-[![Documentation Status](https://readthedocs.org/projects/fuc/badge/?version=latest)](https://fuc.readthedocs.io/en/latest/?badge=latest)
-![](https://img.shields.io/github/license/PingjunChen/FUC.svg)
-![](https://img.shields.io/github/stars/PingjunChen/FUC.svg)
+[![Documentation Status](https://readthedocs.org/projects/fuc-chen/badge/?version=latest)](https://fuc-chen.readthedocs.io/en/latest/?badge=latest)
+![](img.shields.io/github/license/cpathology/FUC-CHEN.svg)
+![](https://img.shields.io/github/stars/cpathology/FUC-CHEN.svg)
 
-This repo covers most frequently used commands, configs, and cheatsheets for Linux/Ubuntu. Go to  [documentation](https://fuc.readthedocs.io) for reference.
+This repo covers most frequently used commands, configs, and cheatsheets for reference.
 
 ## Configurations
-* [Git configuration file](config/git.config)
-* [SSH login server without password](config/ssh_login_no_passwd.md)
+* [git configuration file](config/git.config)
+* [python header template](config/python_head.py)
 * [.bashrc configuration](config/bashrc.config)
+* [ssh login server without password](config/ssh_login_no_passwd.md)
 * [fstab configuration](config/fstab.config)
-* [Python header template](config/python_head.py)
 
 ## Contributing
-``FUC-CHEN`` is an open source project and anyone is welcome to contribute.
+``FUC-CHEN`` is an open source project. Welcome to contribute.
