@@ -2,7 +2,7 @@
 [![Documentation Status](https://readthedocs.org/projects/fuc-chen/badge/?version=latest)](https://fuc-chen.readthedocs.io/en/latest/?badge=latest)
 ![](https://img.shields.io/github/stars/cpathology/FUC-CHEN.svg)
 
-[FUC-CHEN](fuc-chen.readthedocs.io) covers most frequently used commands, configs, and cheatsheets for daily reference.
+[FUC-CHEN](https://fuc-chen.readthedocs.io) covers most frequently used commands, configs, and cheatsheets for daily reference.
 
 ## Configurations
 * [Git configuration file](configs/git.config)
@@ -15,4 +15,4 @@
 * [Dockerfile template](cheatsheets/Dockerfile)
 
 ## Contributing
-``FUC-CHEN`` is an open source project. Welcome to contribute.
+[FUC-CHEN](https://fuc-chen.readthedocs.io) is an open source project. Welcome to contribute.
