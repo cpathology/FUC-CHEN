@@ -3,6 +3,7 @@ FROM nvidia/cuda:11.6.0-devel-ubuntu20.04
 # Setting environment variables
 ENV DEBIAN_FRONTEND noninteractive
 ENV HDF5_USE_FILE_LOCKING FALSE
+ENV NUMBA_CACHE_DIR /tmp
 
 RUN rm /etc/apt/sources.list.d/cuda.list && \
     apt-key del 7fa2af80 && \
@@ -34,6 +35,7 @@ ENV PATH=$CONDA_PREFIX/bin:$PATH
 RUN pip install gpustat==0.6.0 setuptools==61.2.0 pytz==2021.1 termcolor==1.1.0
 RUN conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia
 RUN pip install openslide-python==1.2.0 opencv-python==4.5.4.60 scikit-image==0.18.0
+RUN pip install umap-learn==0.5.3
 
 # Set environment variables
 WORKDIR /.dgl
