@@ -1,8 +1,8 @@
-Welcome to FUC's documentation!
+Welcome to FUC-CHEN's documentation!
 ===============================
 
-The documentation for `FUC <https://github.com/PingjunChen/FUC>`_ is mainly
-organized by following four sections.
+The documentation for `FUC-CHEN <https://github.com/cpathology/FUC-CHEN>`_ is mainly
+organized by following sections.
 
 * :ref:`cheatsheet-docs`
 * :ref:`inspect-docs`
