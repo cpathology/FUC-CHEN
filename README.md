@@ -1,7 +1,7 @@
 # Frequently Used Commands for CHEN (FUC-CHEN)
 [![Documentation Status](https://readthedocs.org/projects/fuc-chen/badge/?version=latest)](https://fuc-chen.readthedocs.io/en/latest/?badge=latest)
 
-Check [FUC-CHEN](https://fuc-chen.readthedocs.io) documentation for frequently used commands.
+Check [FUC-CHEN documentation](https://fuc-chen.readthedocs.io) for frequently used commands. Configurations and cheatsheets are presented bolow.
 
 ## Configurations
 * [.bashrc configuration](configs/bashrc.config)
