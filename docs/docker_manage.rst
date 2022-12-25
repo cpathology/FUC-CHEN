@@ -1,4 +1,4 @@
-docker
+Docker Management
 ========
 `Docker <https://www.docker.com/>`_ is an open platform for developers and
 sysadmins to build, ship, and run distributed applications, whether on laptops,

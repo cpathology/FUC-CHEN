@@ -1,10 +1,5 @@
-process management
+Process Management
 ========
-
-Check Ubuntu version
---------
-:code:`$ lsb_release -a`
-
 
 Check process
 --------
@@ -32,3 +27,8 @@ By application name
 By filtering conditions
 
 :code:`ps -ef | grep <command> | awk '{print $<col_num>}' | xargs kill -9`
+
+
+Check Ubuntu version
+--------
+:code:`$ lsb_release -a`

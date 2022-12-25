@@ -1,4 +1,4 @@
-conda env
+Conda Env
 ========
 
 List available envs

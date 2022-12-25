@@ -15,11 +15,10 @@ Welcome to FUC-CHEN
     docker_manage
     user_manage
     compress_cmd
-    system_info
-    process_info  
+    process_manage  
     seadragon    
     conda_env    
-    virtualenv    
+    virtual_env    
     tmux    
     sftp
     apache 

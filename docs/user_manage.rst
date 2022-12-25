@@ -1,4 +1,4 @@
-user management
+User Management
 ========
 
 Add user with full profile

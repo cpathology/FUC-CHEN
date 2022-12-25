@@ -1,4 +1,4 @@
-git command
+Git Commands
 ========
 
 Delete branch

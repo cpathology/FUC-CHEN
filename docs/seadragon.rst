@@ -1,4 +1,4 @@
-seadragon
+Seadragon
 ========
 
 `Seadragon <http://hpcweb.mdanderson.org/>`_ is a  supercomputing resource of

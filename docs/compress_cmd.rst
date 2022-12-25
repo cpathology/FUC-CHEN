@@ -1,4 +1,4 @@
-compression
+Compression Operations
 ========
 
 Tar and untar
