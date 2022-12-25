@@ -107,20 +107,3 @@ Build singularity from DockerHub image
 .. code-block:: bash
 
     $ singularity pull <image_name>.sif docker://<user_name>/<image_name>:<version>
-
-
-Nvidia-Docker
---------
-
-Install nvidia-docker 2.0
-
-.. code-block:: bash
-
-    $ curl -s -L https://nvidia.github.io/nvidia-docker/gpgkey | sudo apt-key add -
-    $ distribution=$(. /etc/os-release;echo $ID$VERSION_ID)
-    $ curl -s -L https://nvidia.github.io/nvidia-docker/$distribution/nvidia-docker.list | \
-        sudo tee /etc/apt/sources.list.d/nvidia-docker.list
-    $ sudo apt-get update
-    $ sudo apt-get install nvidia-docker2
-    $ sudo pkill -SIGHUP dockerd
-    $ docker run --runtime nvidia --rm nvidia/cuda:9.0-base-ubuntu16.04 nvidia-smi

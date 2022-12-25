@@ -1,6 +1,18 @@
 filesystem
 ========
 
+Find files contain specifc text
+--------
+
+:code:`$ grep -rin <text> .`
+
+
+Check specifc lines inside a text file
+--------
+
+:code:`$ sed -n <start_line_num>:<end_line_num>p <text_file>`
+
+
 Get number of all files
 --------
 When number of file is small, less than 10, 000

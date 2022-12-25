@@ -1,6 +1,11 @@
 process management
 ========
 
+Check Ubuntu version
+--------
+:code:`$ lsb_release -a`
+
+
 Check process
 --------
 

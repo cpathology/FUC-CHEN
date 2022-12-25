@@ -1,13 +1,8 @@
 Welcome to FUC-CHEN
 ===============================
 
-The documentation mainly covers following sections:
-
 * :ref:`command-docs`
-* :ref:`config-docs`
-* :ref:`cheatsheet-docs`
 * :ref:`about-docs`
-
 
 .. _command-docs:
 
@@ -15,43 +10,19 @@ The documentation mainly covers following sections:
     :maxdepth: 2
     :caption: Commands
 
-    usermanagement
-    compression
-    gitcmd
-    process    
     filesystem
-    file_info    
+    git_cmd
+    docker_manage
+    user_manage
+    compress_cmd
     system_info
-    tmux
-    sftp
-    sshfs
+    process_info  
     seadragon    
     conda_env    
-    virtualenv
-    apache
-
-
-.. _config-docs:
-
-.. toctree::
-    :maxdepth: 2
-    :caption: Configs
-
-    gitcfg
-    python_header    
-    bashrc    
-    ssh
-    fstab
-
-
-.. _cheatsheet-docs:
-
-.. toctree::
-    :maxdepth: 2
-    :caption: Cheatsheets
-
-    docker
-
+    virtualenv    
+    tmux    
+    sftp
+    apache 
 
 .. _about-docs:
 

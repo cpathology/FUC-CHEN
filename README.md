@@ -6,7 +6,6 @@ Check [FUC-CHEN](https://fuc-chen.readthedocs.io) documentation for frequently u
 ## Configurations
 * [.bashrc configuration](configs/bashrc.config)
 * [git configuration file](configs/git.config)
-* [fstab configuration](configs/fstab.config)
 * [python header template](configs/python_head.py)
 * [ssh login server without password](configs/ssh_login_no_passwd.md)
 
