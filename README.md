@@ -1,7 +1,8 @@
 # Frequently Used Commands for CHEN (FUC-CHEN)
 [![Documentation Status](https://readthedocs.org/projects/fuc-chen/badge/?version=latest)](https://fuc-chen.readthedocs.io/en/latest/?badge=latest)
+[![DOI](https://zenodo.org/badge/581790269.svg)](https://zenodo.org/badge/latestdoi/581790269)
 
-Check [FUC-CHEN documentation](https://fuc-chen.readthedocs.io) for frequently used commands. Configurations and cheatsheets are presented bolow.
+Check [FUC-CHEN documentation](https://fuc-chen.readthedocs.io) for frequently used commands. Frequently used configurations and cheatsheets are presented as bolow:
 
 ## Configurations
 * [.bashrc configuration](configs/bashrc.config)
