@@ -4,17 +4,11 @@ Commands Basics
 Help commands
 --------
 
-Man page
+:code:`$ man <command>`     # man page
 
-:code:`$ man <command>`
+:code:`$ whatis <command>`  # whatis 
 
-Whatis 
-
-:code:`$ whatis <command>`
-
-Option –h 
-
-:code:`$ <command> -h`
+:code:`$ <command> -h`      # option -h
 
 
 Environment variables
@@ -28,6 +22,7 @@ Create variable in shell
 Define vairable in bash configuration file
 
 :code:`export <env_var>="var_value"` # add the setting to ~/.bashrc
+
 :code:`source ~/.bashrc`             # load new environment variables to shell
 
 Print variable
@@ -39,25 +34,25 @@ Print variable
 History commands
 --------
 
-Check recent commands
+:code:`$ history`                   # check recent commands
 
-:code:`$ history <env_var>`
+:code:`$ history | grep <string> `  # find previous command with specific string
 
 
 Directory change
 --------
 
-Check current directory
-:code:`$ pwd`
+:code:`$ pwd`   # check current directory
 
-Go to home directory
+:code:`$ cd ~`  # go to home directory
 
-:code:`$ cd ~`
+:code:`$ cd -`  # go to previous directory
 
-Go to previous directory
+:code:`$ cd ..` # go to parent directory
 
-:code:`$ cd -`
 
-Go to parent directory
+Download from the internet
+--------
 
-:code:`$ cd ..`
+:code:`$ wget <url>` 
+:code:`$ curl <url>` 
