@@ -10,8 +10,9 @@ Welcome to FUC-CHEN
     :maxdepth: 2
     :caption: Commands
 
-    filesystem
+    cmd_basics
     git_cmd
+    filesystem
     docker_manage
     user_manage
     compress_cmd
