@@ -36,7 +36,7 @@ History commands
 
 :code:`$ history`                   # check recent commands
 
-:code:`$ history | grep <string> `  # find previous command with specific string
+:code:`$ history | grep <string>`  # find previous command with specific string
 
 
 Directory change
@@ -55,4 +55,5 @@ Download from the internet
 --------
 
 :code:`$ wget <url>` 
+
 :code:`$ curl <url>` 
